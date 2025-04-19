@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: d857e9e8254679e45b3d621b7d594c70
+  productGUID: 77ccf3cb9fbf1134fad6648081784c3b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: M2G4
+  productName: M2G1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -843,14 +843,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: M2G4
+  metroPackageName: M2G1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: M2G4
+  metroApplicationDescription: M2G1
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -920,10 +920,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 6b6aa4d8-6e2d-4f86-8bb0-289c9b346d51
+  cloudProjectId: 5d8f9f53-122a-4f34-9905-f71330e6c9e3
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: M2G4
+  projectName: M2G1
   organizationId: andrea-negri
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
